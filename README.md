@@ -26,26 +26,26 @@ File Target: README.md
     <img src="https://komarev.com/ghpvc/?username=Dhanush-kumar-m&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
   </a>
   <a href="https://github.com/Dhanush-kumar-m?tab=followers">
-    <img src="https://img.shields.io/github/followers/Dhanush-kumar-m?label=Followers&style=for-the-badge&color=121212&logo=github&logoColor=00F2FE" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Dhanush-kumar-m?label=Followers&style=for-the-badge&color=8A2BE2&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/Dhanush-kumar-m?tab=stars">
-    <img src="https://img.shields.io/github/stars/Dhanush-kumar-m?style=for-the-badge&color=121212&label=Total+Stars&logo=github&logoColor=8A2BE2" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/Dhanush-kumar-m?style=for-the-badge&color=00F2FE&label=Total+Stars&logo=github&logoColor=black" alt="GitHub Stars" />
   </a>
 </p>
 
-<!-- SOCIAL BADGES (DARK CYBERPUNK THEME) -->
+<!-- SOCIAL BADGES (HIGH-CONTRAST BRAND COLORS FOR DARK THEME) -->
 <p align="center">
   <a href="https://linkedin.com/in/dhanush-kumar-m-b19877295" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://dhanushkumar0306.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=safari&logoColor=00F2FE" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=safari&logoColor=black" alt="Portfolio" />
   </a>
   <a href="mailto:kumardhanush6494@gmail.com">
-    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/dhanush._.offical" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@ File Target: README.md
 ========================================================================= -->
 ## 🌌 About Me
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="55%">
       <h3>🚀 Exploring the Cosmos of Code</h3>
@@ -69,7 +69,7 @@ File Target: README.md
       <ul>
         <li>🎓 <strong>Education:</strong> Bachelor of Engineering in Computer Science and Engineering from <em>Dr. Mahalingam College of Engineering and Technology</em>.</li>
         <li>💻 <strong>Core Passion:</strong> Designing seamless, glassmorphic UI systems and scalable frontend architectures.</li>
-        <li>🌱 <strong>Currently Deep Diving:</strong> Advanced Next.js, Generative AI models, and Cloud infrastructure.</li>
+        <li>🌱 <strong>Currently Deep Diving:</strong> Advanced Next.js, Generative AI models, and modern UI engineering.</li>
         <li>🎯 <strong>Career Goal:</strong> Architecting enterprise-scale applications and leading frontend engineering teams.</li>
       </ul>
     </td>
@@ -78,6 +78,8 @@ File Target: README.md
     </td>
   </tr>
 </table>
+
+<br/>
 
 ### 💎 My Engineering Principles
 * **Clean Code & Readability:** Code is written to be read by humans first, computers second.
@@ -96,28 +98,28 @@ Here is an overview of the languages, frameworks, databases, and engineering too
 ### 🎨 Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass&theme=dark" alt="Frontend Tech" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass" alt="Frontend Tech" />
   </a>
 </p>
 
 ### ⚡ Backend & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark" alt="Backend Tech" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" alt="Backend Tech" />
   </a>
 </p>
 
 ### ☕ Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript" alt="Languages" />
   </a>
 </p>
 
-### 🌐 Cloud, DevOps & Tools
+### 🛠️ Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,docker,postman,vscode,figma,npm,yarn&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,npm,yarn" alt="Tools" />
   </a>
 </p>
 
@@ -145,92 +147,44 @@ A futuristic look into my focus on AI, Machine Learning, and Generative applicat
 Here is a curated list of my top engineering achievements, built with performance, responsive design, and clean interfaces in mind.
 
 ### 1. 🎬 Netflix Clone
-> **Modern Netflix-inspired streaming UI platform.**
 > A pixel-perfect, responsive replica of the Netflix streaming dashboard. Includes interactive browsing, custom category layouts, details overlay, search interfaces, and fully animated components.
 * **Key Features:** Interactive movie carousels, responsive cards, dynamic detail views, and client-side movie searches.
-* **Tech Stack:** HTML5, CSS3, JavaScript, Responsive Web Design.
-* **Links:**
-  <a href="https://github.com/Dhanush-kumar-m/Netflix-Clone" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-Open_Source-00bfff?style=flat-square&logo=github" alt="Repository" />
-  </a>
-  <a href="https://github.com/Dhanush-kumar-m/Netflix-Clone" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Site-7f00ff?style=flat-square&logo=google-chrome" alt="Live Demo" />
-  </a>
+* **Used Stack:** `HTML5` • `CSS3` • `JavaScript` • `Responsive Web Design`
 
 ---
 
 ### 2. 🏢 DK Innovations Technologies
-> **Futuristic company website featuring high-performance animations and glassmorphic UI.**
 > Designed to represent a premium digital agency. Built using Next.js for server-side rendering benefits, combined with Framer Motion for buttery-smooth interactive visuals.
 * **Key Features:** Glassmorphic navigation headers, animated sections, service showcases, and custom contact flows.
-* **Tech Stack:** Next.js, React, Tailwind CSS, Framer Motion.
-* **Links:**
-  <a href="https://github.com/Dhanush-kumar-m/DK-Innovations" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-Open_Source-00bfff?style=flat-square&logo=github" alt="Repository" />
-  </a>
-  <a href="https://github.com/Dhanush-kumar-m/DK-Innovations" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Site-7f00ff?style=flat-square&logo=google-chrome" alt="Live Demo" />
-  </a>
+* **Used Stack:** `Next.js` • `React` • `Tailwind CSS` • `Framer Motion`
 
 ---
 
 ### 3. 📦 Smart Inventory System
-> **High-performance dashboard for stock management and operational business analytics.**
 > Designed for warehouse and local retail environments to manage items, review financial trends, export inventories, and configure real-time stock notifications.
 * **Key Features:** CRUD operations, browser persistence via LocalStorage, Excel data export, and dark mode theme persistence.
-* **Tech Stack:** React, JavaScript, Local Storage APIs, CSS Modules.
-* **Links:**
-  <a href="https://github.com/Dhanush-kumar-m/Smart-Inventory" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-Open_Source-00bfff?style=flat-square&logo=github" alt="Repository" />
-  </a>
-  <a href="https://github.com/Dhanush-kumar-m/Smart-Inventory" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Site-7f00ff?style=flat-square&logo=google-chrome" alt="Live Demo" />
-  </a>
+* **Used Stack:** `React` • `JavaScript` • `Local Storage APIs` • `CSS Modules`
 
 ---
 
 ### 4. 🎯 Placement Training Portal
-> **Comprehensive academic placement portal for preparing candidates for engineering roles.**
 > An all-in-one preparation hub tracking test progress, generating mock interviews, testing code, and parsing resume data.
 * **Key Features:** Programming sandbox editor, aptitude tester framework, and resume parsing analyzers.
-* **Tech Stack:** React, JavaScript, CSS Flexbox/Grid, Data Structures.
-* **Links:**
-  <a href="https://github.com/Dhanush-kumar-m/Placement-Portal" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-Open_Source-00bfff?style=flat-square&logo=github" alt="Repository" />
-  </a>
-  <a href="https://github.com/Dhanush-kumar-m/Placement-Portal" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Site-7f00ff?style=flat-square&logo=google-chrome" alt="Live Demo" />
-  </a>
+* **Used Stack:** `React` • `JavaScript` • `CSS Flexbox / Grid` • `Data Structures`
 
 ---
 
 ### 5. 🤖 AdVantage Gen
-> **Generative AI poster and copy constructor for business marketing.**
 > Creates customized marketing materials using AI algorithms. Includes editing canvases, model parameters control, and automated downloads.
 * **Key Features:** Image generation APIs, draggable canvas assets, template configurations, and export outputs.
-* **Tech Stack:** React, Node.js, Express, Generative AI APIs.
-* **Links:**
-  <a href="https://github.com/Dhanush-kumar-m/AdVantage-Gen" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-Open_Source-00bfff?style=flat-square&logo=github" alt="Repository" />
-  </a>
-  <a href="https://github.com/Dhanush-kumar-m/AdVantage-Gen" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Site-7f00ff?style=flat-square&logo=google-chrome" alt="Live Demo" />
-  </a>
+* **Used Stack:** `React` • `Node.js` • `Express` • `Generative AI APIs`
 
 ---
 
 ### 6. 🌐 Personal Portfolio
-> **Premium digital portfolio designed to represent skills, credentials, and projects.**
 > A modern UI showcasing live web projects, open-source commits, and active social channels. Featuring dynamic light/dark settings.
 * **Key Features:** Galaxy themed hero sections, tech stack grids, dynamic project filters, and active email contact forms.
-* **Tech Stack:** React.js, Next.js, Tailwind CSS, Framer Motion.
-* **Links:**
-  <a href="https://github.com/Dhanush-kumar-m/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-Open_Source-00bfff?style=flat-square&logo=github" alt="Repository" />
-  </a>
-  <a href="https://dhanushkumar0306.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Site-7f00ff?style=flat-square&logo=google-chrome" alt="Live Demo" />
-  </a>
+* **Used Stack:** `React.js` • `Next.js` • `Tailwind CSS` • `Framer Motion`
 
 ---
 
@@ -264,7 +218,7 @@ Organized overview of my commit activities, language distributions, achievements
 ---
 
 <!-- =========================================================================
-                  🐍 CONTRIBUTION SNAKE WORKFLOW GUIDE
+                  🐍 CONTRIBUTION SNAKE
 ========================================================================= -->
 ## 🐍 Contribution Snake Animation
 
@@ -283,7 +237,7 @@ Below is a live visualization of my contribution graph animated as a retro snake
 
 Here are the milestones I have crossed on my journey:
 
-<table>
+<table align="center">
   <tr>
     <td>
       <h4>🌌 Learning Journey</h4>
