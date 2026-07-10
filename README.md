@@ -146,42 +146,35 @@ A futuristic look into my focus on AI, Machine Learning, and Generative applicat
 
 Here is a curated list of my top engineering achievements, built with performance, responsive design, and clean interfaces in mind.
 
-### 1. 🎬 Netflix Clone
-> A pixel-perfect, responsive replica of the Netflix streaming dashboard. Includes interactive browsing, custom category layouts, details overlay, search interfaces, and fully animated components.
-* **Key Features:** Interactive movie carousels, responsive cards, dynamic detail views, and client-side movie searches.
-* **Used Stack:** `HTML5` • `CSS3` • `JavaScript` • `Responsive Web Design`
-
----
-
-### 2. 🏢 DK Innovations Technologies
+### 1. 🏢 DK Innovations Technologies
 > Designed to represent a premium digital agency. Built using Next.js for server-side rendering benefits, combined with Framer Motion for buttery-smooth interactive visuals.
 * **Key Features:** Glassmorphic navigation headers, animated sections, service showcases, and custom contact flows.
 * **Used Stack:** `Next.js` • `React` • `Tailwind CSS` • `Framer Motion`
 
 ---
 
-### 3. 📦 Smart Inventory System
+### 2. 📦 Smart Inventory System
 > Designed for warehouse and local retail environments to manage items, review financial trends, export inventories, and configure real-time stock notifications.
 * **Key Features:** CRUD operations, browser persistence via LocalStorage, Excel data export, and dark mode theme persistence.
 * **Used Stack:** `React` • `JavaScript` • `Local Storage APIs` • `CSS Modules`
 
 ---
 
-### 4. 🎯 Placement Training Portal
+### 3. 🎯 Placement Training Portal
 > An all-in-one preparation hub tracking test progress, generating mock interviews, testing code, and parsing resume data.
 * **Key Features:** Programming sandbox editor, aptitude tester framework, and resume parsing analyzers.
 * **Used Stack:** `React` • `JavaScript` • `CSS Flexbox / Grid` • `Data Structures`
 
 ---
 
-### 5. 🤖 AdVantage Gen
+### 4. 🤖 AdVantage Gen
 > Creates customized marketing materials using AI algorithms. Includes editing canvases, model parameters control, and automated downloads.
 * **Key Features:** Image generation APIs, draggable canvas assets, template configurations, and export outputs.
 * **Used Stack:** `React` • `Node.js` • `Express` • `Generative AI APIs`
 
 ---
 
-### 6. 🌐 Personal Portfolio
+### 5. 🌐 Personal Portfolio
 > A modern UI showcasing live web projects, open-source commits, and active social channels. Featuring dynamic light/dark settings.
 * **Key Features:** Galaxy themed hero sections, tech stack grids, dynamic project filters, and active email contact forms.
 * **Used Stack:** `React.js` • `Next.js` • `Tailwind CSS` • `Framer Motion`
