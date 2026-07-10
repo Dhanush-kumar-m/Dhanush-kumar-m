@@ -1,7 +1,7 @@
 <!-- =========================================================================
                       🌌 DHANUSH KUMAR M - GITHUB PROFILE 🌌
 =========================================================================
-Theme: Galaxy Background, Glassmorphism, Space, Cyberpunk Elements
+Theme: Deep Dark Mode, Space, Cyberpunk Glow, Neon Blue & Purple
 Palette: Neon Blue (#00F2FE), Neon Purple (#8A2BE2), Electric Magenta (#FF007F)
 File Target: README.md
 ========================================================================= -->
@@ -9,14 +9,14 @@ File Target: README.md
 <!-- HEADER CAPSULE-RENDER BANNER -->
 <p align="center">
   <a href="https://github.com/Dhanush-kumar-m">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=00b2fe&customColorEnd=7f00ff&height=280&section=header&text=Dhanush%20Kumar%20M&fontSize=50&fontColor=FFFFFF&subText=Software%20Engineer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20AI%20Enthusiast&subTextSize=20&fontAlignY=40&animation=fadeIn" width="100%" alt="Dhanush Kumar M Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=120c1f&customColorEnd=05030a&height=280&section=header&text=Dhanush%20Kumar%20M&fontSize=50&fontColor=00F2FE&subText=Software%20Engineer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20AI%20Enthusiast&subTextSize=20&fontAlignY=40&animation=twinkling" width="100%" alt="Dhanush Kumar M Banner" />
   </a>
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&height=50&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8C%90;React+and+Next.js+Developer+%E2%9A%9B%EF%B8%8F;JavaScript+Developer+%F0%9F%9F%A8;AI+Enthusiast+%F0%9F%A4%96;Open+Source+Learner+%F0%9F%9A%80;Building+Modern+Web+Applications+%E2%9C%A8;Never+Stop+Learning+%F0%9F%93%9A" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&height=50&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8C%90;React+and+Next.js+Developer+%E2%9A%9B%EF%B8%8F;JavaScript+Developer+%F0%9F%9F%A8;AI+Enthusiast+%F0%9F%A4%96;Open+Source+Learner+%F0%9F%9A%80;Building+Modern+Web+Applications+%E2%9C%A8;Never+Stop+Learning+%F0%9F%93%9A" alt="Typing Animation" />
   </a>
 </p>
 
@@ -26,32 +26,33 @@ File Target: README.md
     <img src="https://komarev.com/ghpvc/?username=Dhanush-kumar-m&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
   </a>
   <a href="https://github.com/Dhanush-kumar-m?tab=followers">
-    <img src="https://img.shields.io/github/followers/Dhanush-kumar-m?label=Followers&style=for-the-badge&color=00bfff&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Dhanush-kumar-m?label=Followers&style=for-the-badge&color=121212&logo=github&logoColor=00F2FE" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/Dhanush-kumar-m?tab=stars">
-    <img src="https://img.shields.io/github/stars/Dhanush-kumar-m?style=for-the-badge&color=7f00ff&label=Total+Stars&logo=github" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/Dhanush-kumar-m?style=for-the-badge&color=121212&label=Total+Stars&logo=github&logoColor=8A2BE2" alt="GitHub Stars" />
   </a>
 </p>
 
-<!-- SOCIAL BADGES -->
+<!-- SOCIAL BADGES (DARK CYBERPUNK THEME) -->
 <p align="center">
   <a href="https://linkedin.com/in/dhanush-kumar-m-b19877295" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="https://dhanushkumar0306.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=safari&logoColor=00F2FE" alt="Portfolio" />
   </a>
   <a href="mailto:kumardhanush6494@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kumardhanush6494%40gmail.com-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
   </a>
   <a href="https://instagram.com/dhanush._.offical" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-dhanush._.offical-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
 </p>
 
-<br/>
-
----
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
+</p>
 
 <!-- =========================================================================
                           👨‍💻 ABOUT ME SECTION
@@ -95,28 +96,28 @@ Here is an overview of the languages, frameworks, databases, and engineering too
 ### 🎨 Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass" alt="Frontend Tech" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass&theme=dark" alt="Frontend Tech" />
   </a>
 </p>
 
 ### ⚡ Backend & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" alt="Backend Tech" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark" alt="Backend Tech" />
   </a>
 </p>
 
 ### ☕ Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript&theme=dark" alt="Languages" />
   </a>
 </p>
 
 ### 🌐 Cloud, DevOps & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,docker,postman,vscode,figma,npm,yarn" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,docker,postman,vscode,figma,npm,yarn&theme=dark" alt="Tools" />
   </a>
 </p>
 
@@ -242,22 +243,22 @@ Organized overview of my commit activities, language distributions, achievements
 
 <!-- ROW 1: PROFILE STATS & TOP LANGUAGES -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhanush-kumar-m&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-kumar-m&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhanush-kumar-m&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-kumar-m&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" />
 </p>
 
 <!-- ROW 2: STREAK STATS & PROFILE TROPHIES -->
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush-kumar-m&theme=tokyonight" alt="Streak Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush-kumar-m&theme=dracula" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush-kumar-m&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush-kumar-m&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 <!-- ROW 3: CONTRIBUTION ACTIVITY GRAPH -->
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-kumar-m&theme=tokyo-night&area=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-kumar-m&theme=dracula&area=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -313,7 +314,7 @@ Here are the milestones I have crossed on my journey:
 ## 💡 Inspirational Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Motivational Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Daily Motivational Quote" />
 </p>
 
 > *"Success isn't built in a day—it's built through consistent learning, coding, and never giving up."*
